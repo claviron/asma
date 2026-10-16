@@ -8,7 +8,7 @@ can support multilingual application text and locale-aware discovery.
 
 ## Project status
 
-Version `0.0.0` is an initial placeholder for an actively planned project. The
+Version `0.0.1` is an early placeholder for an actively planned project. The
 library has no public API or usable functionality yet and is not ready for
 application use.
 
