@@ -1,0 +1,9 @@
+[package]
+name = "asma"
+version = "0.0.0"
+edition = "2024"
+description = "Multilingual catalogs for names, meanings, and their relationships"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+publish = ["crates-io"]
+include = ["Cargo.toml", "README.md", "src/lib.rs"]

@@ -1,0 +1,21 @@
+# Tool caches
+/target/
+/dist/
+/build/
+
+# Local environment
+.env
+.env.*
+!.env.example
+/config/env/*.env
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local files
+*.local.*
+# Cargo files
+Cargo.lock
